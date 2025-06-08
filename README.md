@@ -109,15 +109,6 @@ This section compares two purchasing methods:
 
 ---
 
-### 6. **Levelized Cost of Energy (LCOE)**
-
-Calculates cost per kWh of energy produced over 15 years:
-
-* For both `cash` and `loan` scenarios.
-* Adjusts first-year kWh (if available) over time using same escalation factors.
-
----
-
 ## **Output Explanation**
 
 ### **Formatted Summary Includes:**
@@ -153,9 +144,6 @@ Calculates cost per kWh of energy produced over 15 years:
   * Sunshine profile (Veichi bell curve)
   * Loss factors and system specifications
 
-* **Missing Input**:
-
-  * `first_year_savings_kWh` is required to calculate LCOE accurately. If not provided, LCOE will default to `NaN`.
 
 * **Interpolation Logic**:
 

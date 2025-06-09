@@ -158,3 +158,7 @@ This section compares two purchasing methods:
 * If available, provide `first_year_savings_kWh` to enable meaningful LCOE comparison.
 * Review cashflow tables to identify when system becomes financially beneficial.
 
+## **Excel Test File**
+
+https://webnicpremium-my.sharepoint.com/:x:/g/personal/christiaan_cedarsolar_com/EbQcBgJi0iBNhvJZVWxK9h8BJ7jBtBO5tsUbk9LRi80mqA?e=p8Jelg
+
